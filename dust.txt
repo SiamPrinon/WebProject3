@@ -1,0 +1,7 @@
+<form action="process.php" method="post">
+                <table id="tab_login">
+                    <tr><td align="right"><label class="lbl1">Name:</label></td><td><input type="text" class="login_text" placeholder="Enter your username" required></td></tr>
+                    <tr><td><label class="lbl1">Password:</label></td><td><input type="text" class="login_text" placeholder="Enter your password" required></td></tr>
+                    <tr><td colspan="2"><input type="submit" id="btn"></td></tr>
+                </table>
+            </form>
